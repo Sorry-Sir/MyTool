@@ -1,0 +1,28 @@
+platform :ios, ‘9.0’
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target ‘MyTool’ do
+
+pod 'FMDB'
+# pod 'FMDB/FTS'   # FMDB with FTS
+# pod 'FMDB/standalone'   # FMDB with latest SQLite amalgamation source
+# pod 'FMDB/standalone/FTS'   # FMDB with latest SQLite amalgamation source and FTS
+# pod 'FMDB/SQLCipher'   # FMDB with SQLCipher
+
+pod 'Masonry' 
+pod 'IQKeyboardManager'
+pod 'MJRefresh' 
+pod 'AFNetworking'
+pod 'SVProgressHUD'
+pod 'YYModel'
+pod 'SDWebImage'
+pod 'YBPopupMenu'
+pod 'SGPagingView'
+pod 'SDCycleScrollView'
+
+end
+
+
+
+

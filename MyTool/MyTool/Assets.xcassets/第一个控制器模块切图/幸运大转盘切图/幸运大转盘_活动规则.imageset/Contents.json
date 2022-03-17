@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "幸运大转盘_活动规则.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "幸运大转盘_活动规则@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "幸运大转盘_活动规则@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

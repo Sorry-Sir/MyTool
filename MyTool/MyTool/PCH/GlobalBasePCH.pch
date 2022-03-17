@@ -1,0 +1,22 @@
+//
+//  GlobalBasePCH.pch
+//  MyTool
+//
+//  Created by admin on 2022/3/16.
+//
+
+#ifndef GlobalBasePCH_pch
+#define GlobalBasePCH_pch
+
+
+
+//项目基础设置，适配常用宏
+#import "HXJBasicSetting.h"
+//项目其他相关设置宏
+#import "OtherProjectRelated.h"
+//各种，封装的工具 以及 公共类 和 category的头文件引用
+#import "CommonToolAndObjc.h"
+
+
+
+#endif /* GlobalBasePCH_pch */
